@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0354_000.yaml, hash: 'sha256:a1e1df4a3e9226d5cb86240e0552e5cbc052ba079098a985cfc0850daf0796ca'}
+  - {seq: 0, filename: KR6q0354_000.yaml, hash: 'sha256:e89188be49b7dea3b97a339d492612f4e60c7e46931d5347286f2899c1ff7e07'}
   - {seq: 1, filename: KR6q0354_001.yaml, hash: 'sha256:ad3cd51a3e988e0e8c35cb75217584aba16a69cbd45dc104be776dacb8907d68'}
   - {seq: 2, filename: KR6q0354_002.yaml, hash: 'sha256:852b6ce817670872e69f7883608c1a6d67b869522c660655c20286d96e9b63d4'}
   - {seq: 3, filename: KR6q0354_003.yaml, hash: 'sha256:e522e500a9f6445ac03f87a818bbdb9c5f932c9a6aa5f76ff62a99330f9a8612'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6q0354_009.yaml, hash: 'sha256:14c1f6817383b1ebe4f4961d4d85143891d6605ef1de2ed37872bfcc875a1403'}
   - {seq: 10, filename: KR6q0354_010.yaml, hash: 'sha256:066c9811c9165215d0b5d9cd84b92487c68f9f2baf7f03115611fc3a00edc0e4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0354_000.markers.yaml, hash: 'sha256:cae55dbd18ebefe416e6d330339748d5ed80ccb6fcfa902467f05ad05bd053ed'}
+  - {seq: 0, role: markers, filename: assets/KR6q0354_000.markers.yaml, hash: 'sha256:d76d08f24afbab7e0123720ad6a22cbf5d6d0dd18643bb83395194524db40963'}
   - {seq: 1, role: markers, filename: assets/KR6q0354_001.markers.yaml, hash: 'sha256:43ba48d93b2a89c4376527a1419aad988f6ece3d9319e7ed823abcafb8e28289'}
   - {seq: 2, role: markers, filename: assets/KR6q0354_002.markers.yaml, hash: 'sha256:92a16cb66686943fcd342b3fa3db96e7a430c5431b4bd6a67de5cc069145eac0'}
   - {seq: 3, role: markers, filename: assets/KR6q0354_003.markers.yaml, hash: 'sha256:3942f9c0832d6ad5487788bb6fc8ba079464ef35fad17f36377d4d73ff84bf86'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0354_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1421-A 徑山和尚愚菴禪師四會語序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0354_X_000-mulu-2
     span:
-    - front
+    - body
     - 693
     - 693
   label: 愚菴及禪師語錄總目
@@ -2375,7 +2375,7 @@ table_of_contents:
   label: No. 1421-B 塔銘
   type: mulu
   level: 1
-hash: sha256:d0216a5cecdbad343c8f6f634ee0befa29c77ddd1eea532bd199e5056365da9e
+hash: sha256:77990fd745cda70e28ad2358a8ed7ed6f79c6c59ba80f132a2bd4695755f69fa
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
